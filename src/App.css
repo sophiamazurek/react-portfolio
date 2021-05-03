@@ -8,6 +8,10 @@ h1, h2, h3, h4, h5{
     font-family: 'Oswald', sans-serif;
 }
 
+.navbar{
+  background-color:#8CBC91;
+}
+
 .bg {
   /* The image used */
   background-image: url("./images/homepic3.jpeg");
@@ -34,10 +38,15 @@ h1, h2, h3, h4, h5{
 
 }
 
+.resume{
+  color:white;
+  background-color: #8CBC91;
+}
+
 /*card transition*/
 body {
 font-family: 'Raleway', sans-serif;
-background-color: #ffffff;
+background-color: #FCFBFA;
 }
 
 .contenedor {

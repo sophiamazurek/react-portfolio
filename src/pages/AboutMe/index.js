@@ -20,7 +20,7 @@ function AboutMe(props) {
                     for the month of January. In Florence I studied International Marketing, this helped me see the world in a different perspective
                     in terms of marketing and business as a whole. 
                     <p>
-                       <a href="https://docs.google.com/document/d/1MoNPG3DzOppERanmJ0RY9zuHaWt_viCVcN70lFWXriY/edit?usp=sharing"><button>Resume</button></a> 
+                       <a href="https://docs.google.com/document/d/1MoNPG3DzOppERanmJ0RY9zuHaWt_viCVcN70lFWXriY/edit?usp=sharing"><button className="resume">Resume</button></a> 
                     </p>
                 </div>
             </div>

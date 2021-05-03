@@ -13,7 +13,7 @@ function Projects(props) {
                 <a href="https://github.com/sophiamazurek/employee-tracker"><span id="click" className="lnr lnr-eye">GitHub</span></a> 
               </div>
               <article className="text-left">
-                 <h2>EMPLOYEE TRACKER <br/>react</h2>
+                 <h2>EMPLOYEE TRACKER <br/>React</h2>
                  <h4>Track your Employees</h4>
               </article>
               <img src={Project1} alt=""/>
@@ -30,11 +30,11 @@ function Projects(props) {
           </div>
           <div className="col-lg-4 col-md-4 col-sm-6 col-xs-12 container_foto">
               <div className="ver_mas text-center">
-                <a href="https://www.youtube.com/watch?v=nL6mPFg2KGc"><span id="click" className="lnr lnr-eye">Watch</span></a> 
+                <a href="https://github.com/sophiamazurek/budget-tracker"><span id="click" className="lnr lnr-eye">GitHub</span></a> 
               </div>
               <article className="text-left">
-                <h2>100 HOLE HIKE<br/>Youth on Course Foundation</h2>
-                <h4>Raised money and hiked 100 holes for YOC</h4>
+                <h2>Budget Tracker<br/>PWA</h2>
+                <h4>Progressive Web Application to track finances</h4>
               </article>
               <img src={Project1} alt=""/>
           </div>
